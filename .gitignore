@@ -1,0 +1,22 @@
+# Reference & Course Materials (PDFs)
+/d26-Fundraising.pdf
+/day26-track1-lab.pdf
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp & Logs
+*.log
+tmp/
+temp/
